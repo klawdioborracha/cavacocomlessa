@@ -25,6 +25,12 @@ h5 {
 dt {
     font-weight:500 !important;
 }
+iframe{
+    width:100%!important;
+    max-height:300px;
+    height:300px!important;
+    max-width:600px!important;
+}
 .button-1 {
     color:white;
     font-family:'open sans', Sans-serif;

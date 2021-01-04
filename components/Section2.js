@@ -23,7 +23,7 @@ function Section2() {
                     e <span style={{ color: 'darkorange', fontWeight: 'bold' }}>fácil</span>.</p>
                     <h2>O curso é para mim?</h2>
                     <p>Se você...</p>
-                    <ul className="fa-ul text-center">
+                    <ul className="fa-ul text-left">
                         <li><FontAwesomeIcon className="fas fa-sm fa-spin" icon="compact-disc" /> Quer aprender tocar mesmo que não tenha nenhuma experiência</li>
                         <li><FontAwesomeIcon className="fas fa-sm fa-spin" icon="compact-disc" /> Já toca, mas tem dificuldade em executar solinhos</li>
                         <li><FontAwesomeIcon className="fas fa-sm fa-spin" icon="compact-disc" /> Tem dificuldade em formar e executar acordes difíceis</li>
