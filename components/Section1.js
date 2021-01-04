@@ -11,7 +11,7 @@ function Section1() {
             <Container className="pt-3 text-center" >
                 <h1 className="m-5">Toque Cavaquinho Como Um <span style={{ color: 'darkorange', fontWeight: 'bolder' }}>Profissional</span></h1>
                 <h4 className="m-5">conheça o segredo dos cavaquinistas profissionais e evolua anos de estudo em poucas semanas</h4>
-                <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                <iframe width="600" height="338" src="https://www.youtube.com/embed/T-49Y6G7a0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p className="small">(assista ao vídeo acima)</p>
                 <Button className="btn btn-lg mt-5 button-1 p-3">quero tocar como um profissional</Button>
                 <Selo />

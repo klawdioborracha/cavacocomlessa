@@ -10,34 +10,36 @@ function Section5() {
                 <h2>o que os alunos dizem</h2>
                 <div className="d-md-flex flex-md-row">
                     <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/yjMGXh0Q8FQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h5>vittinho</h5>
                         <p>Jogador do Flamengo</p>
                     </div>
                     <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/GwImruhgDOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h5>roobertg</h5>
                         <p>Atleta de Futebol</p>
-                    </div>
-                    <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
-                        <h5>ramon ramos</h5>
-                        <p>Cantor</p>
                     </div>
                 </div>
                 <div className="d-md-flex flex-md-row">
                     <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/6PMLHfWIFAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <h5>ramon ramos</h5>
+                        <p>Cantor</p>
+                    </div>
+                    <div className="col-xl my-3">
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/NRhpXWd57So" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h5>edu bauermann</h5>
                         <p>Zagueiro do América FC</p>
                     </div>
+                </div>
+                <div className="d-md-flex flex-md-row">
                     <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/wssjcBWFhew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h5>roberto mohammad</h5>
                         <p>Cavaquinista do Gustavo Lins</p>
                     </div>
                     <div className="col-xl my-3">
-                        <iframe className="firstVideo" src="https://www.youtube.com/watch?v=FmwqkvR5rC4s"></iframe>
+                        <iframe width="495" height="278" src="https://www.youtube.com/embed/P2glnh5Uq38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h5>vittinho</h5>
                         <p>Jogador do Flamengo</p>
                     </div>
